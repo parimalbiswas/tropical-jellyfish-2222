@@ -23,6 +23,18 @@ This project is developed by a team of 5 members with the help of the Spring-Boo
 - Swagger-UI
 - Lombok
 
+## FlowChart
+
+<p>
+        <img
+        align="center"
+        src="https://user-images.githubusercontent.com/76105799/203701190-7211e27e-4afa-4110-af11-375a538fd17d.png"
+        alt="Coding"
+        width="700"
+        style="display: block"/>
+    </p>
+    <br>
+
 ## ER- Diagram
 <p>
         <img
